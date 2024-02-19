@@ -21,10 +21,10 @@ This project involves an in-depth Exploratory Data Analysis (EDA) of Airbnb data
 ### Visualizations
 
 #### 1. Price Distribution
-![Price Distribution](https://drive.google.com/file/d/1KWUeJBgZR_vcTeB4tKx4o1LTUA71hsn3/view?usp=sharing)
+![Price Distribution](https://drive.google.com/uc?id=1KWUeJBgZR_vcTeB4tKx4o1LTUA71hsn3)
 
 #### 2. Property Type Preferences
-![Property Type Preferences](https://drive.google.com/file/d/1p2w98r9LotxLjO3qZMYhQyjq6LI4Gg6K/view?usp=sharing)
+![Property Type Preferences](https://drive.google.com/uc?id=1p2w98r9LotxLjO3qZMYhQyjq6LI4Gg6K)
 
 ## Project 2: Spam Email Detection
 
