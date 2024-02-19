@@ -17,6 +17,10 @@ This project involves an in-depth Exploratory Data Analysis (EDA) of Airbnb data
 
 2. **Property and Room Type Preferences:**
    - Explored the popularity of different property and room types among hosts and guests.
+  
+**Correlation Analysis:**
+   - Investigated correlations between various features, providing insights into factors influencing pricing and guest satisfaction.
+
 
 ### Visualizations
 
@@ -25,6 +29,10 @@ This project involves an in-depth Exploratory Data Analysis (EDA) of Airbnb data
 
 #### 2. Property Type Preferences
 ![Property Type Preferences](https://drive.google.com/uc?id=1p2w98r9LotxLjO3qZMYhQyjq6LI4Gg6K)
+
+#### 3. Correlation Matrix Heatmap
+![Correlation Matrix Heatmap](https://drive.google.com/uc?id=1cy4Cq3jjmIra2Vpt0sDodCBiMacCKk6X)
+
 
 ## Project 2: Spam Email Detection
 
