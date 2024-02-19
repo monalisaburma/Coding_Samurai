@@ -1,4 +1,4 @@
-# Coding Samurai Projects
+# Coding Samurai Internship
 
 ## Task 1: Airbnb Exploratory Data Analysis (EDA)
 
@@ -32,6 +32,8 @@ This project involves an in-depth Exploratory Data Analysis (EDA) of Airbnb data
 
 #### 3. Correlation Matrix Heatmap
 ![Correlation Matrix Heatmap](https://drive.google.com/uc?id=1cy4Cq3jjmIra2Vpt0sDodCBiMacCKk6X)
+
+
 
 
 ## Project 2: Spam Email Detection
